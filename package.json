@@ -1,18 +1,29 @@
 {
   "name": "react-duallist-selector",
   "version": "1.0.0",
-  "description": "React Dual List",
+  "description": "",
   "main": "DualList.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react",
-    "duallist"
+    "duallist",
+    "dualList",
+    "dualListBox",
+    "duallistbox"
   ],
   "author": "Prabhash Bhajani",
   "license": "ISC",
   "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
     "react-icons": "^5.0.1"
   }
 }

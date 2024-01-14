@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 
 // Icons
 import { FaAngleRight, FaAnglesRight, FaAngleLeft, FaAnglesLeft } from "react-icons/fa6";
