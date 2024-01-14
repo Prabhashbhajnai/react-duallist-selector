@@ -1,6 +1,6 @@
 {
   "name": "react-duallist-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "DualList.jsx",
   "scripts": {
@@ -13,6 +13,10 @@
     "dualListBox",
     "duallistbox"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prabhashbhajnai/react-duallist-selector"
+  },
   "author": "Prabhash Bhajani",
   "license": "ISC",
   "peerDependencies": {
